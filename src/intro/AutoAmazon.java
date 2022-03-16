@@ -49,6 +49,10 @@ public class AutoAmazon {
        
        driver.quit();
        
-	 } 
+	 }
+	// Good job till now!!
+	// Study about config file. What is config file and how to put and get data from config file.
+	// task after this is to search and click product what is mentioned in the config file rather than hard coded values in class.
+	// Also handle what if the product is not found? 
 
 }
